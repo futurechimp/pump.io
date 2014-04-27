@@ -11,6 +11,9 @@ really want from a social network.
 
 Copyright 2011-2013, E14N https://e14n.com/
 
+Chimp photo from http://uncyclopedia.wikia.com/wiki/File:Chimp.jpeg, 
+uploaded by user Digidevil4. CC BY-NC-SA 3.0 2007.
+
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
